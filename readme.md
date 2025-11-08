@@ -182,7 +182,7 @@ MIT License © 2025
 ## 👨🏽‍💻 Author
 
 **Name:** Joseph Osei Bonsu  
-**Email:** josephoseibonsu742@gmail.com.com  
+**Email:** josephoseibonsu742@gmail.com  
 **Bio:** Passionate about technology, APIs, and digital innovation.  
 
 
