@@ -1,4 +1,3 @@
-```markdown
 # 🎬 YouTube Scrape API (Express + Node.js)
 
 A lightweight and developer-friendly **YouTube Data API alternative**, built using **youtubei.js** and **ytdl-core**.  
@@ -183,7 +182,7 @@ MIT License © 2025
 ## 👨🏽‍💻 Author
 
 **Name:** Joseph Osei Bonsu  
-**Email:** your-email@example.com  
+**Email:** josephoseibonsu742@gmail.com.com  
 **Bio:** Passionate about technology, APIs, and digital innovation.  
 
 
