@@ -161,7 +161,9 @@ GET http://localhost:5000/api/playlists/PLlYKDqB0xXyNq1BEBx0F2fUlrH2Sg25xC/video
 - Build a **YouTube Analytics Dashboard** connected to this API  
 - Offer **paid API keys** with usage limits  
 - Sell **subscription plans** for high-volume users  
-- Add **AI-powered recommendations** using this data  
+- Add **AI-powered recommendations** using this data
+
+## NB: These ideas remain for Joseph Kwabena Osei Bonsu and partially for future contributors
 
 ---
 
