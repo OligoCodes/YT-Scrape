@@ -33,8 +33,8 @@ It’s designed for **developers, creators, and students** who want to easily in
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<yourusername>/youtube-scrape-api.git
-cd youtube-scrape-api
+git clone https://github.com/OligoCodes/yt-scrape.git
+cd yt-scrape
 npm install
 ```
 
