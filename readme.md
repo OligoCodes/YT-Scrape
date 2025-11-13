@@ -1,8 +1,8 @@
 # 🎬 YouTube Scrape API (Express + Node.js)
 
-A lightweight and developer-friendly **YouTube Data API alternative**, built using **youtubei.js** and **ytdl-core**.  
+![logo](https://github.com/OligoCodes/YT-Scrape/blob/main/assets/ei_1763053153967-removebg-preview.png)
 
-[!logo](https://github.com/OligoCodes/YT-Scrape/blob/main/assets/ei_1763053153967-removebg-preview.png)
+A lightweight and developer-friendly **YouTube Data API alternative**, built using **youtubei.js** and **ytdl-core**.  
 
 This API fetches live YouTube data — channels, videos, playlists, and search results — without relying entirely on Google’s official API.
 
